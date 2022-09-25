@@ -1,0 +1,1 @@
+Тестирование проводилось программы wikipedia: на эмуляторе android ,на browserstack , и реальном телефоне.Сделал проверки по первым страницам приложения https://github.com/wikimedia/apps-android-wikipedia/releases/tag/latest
